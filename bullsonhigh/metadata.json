@@ -1,0 +1,6 @@
+{
+  "name": "BullsOnHigh",
+  "description": "Professional Personal Finance & Investment Platform for mastering money and building generational wealth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["investment_calculators", "financial_blog", "data_tables"]
+}
