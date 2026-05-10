@@ -3,13 +3,13 @@ import { Author } from './components/AuthorBio';
 import { TableRow } from './components/InvestmentTable';
 
 export const AUTHORS: Record<string, Author> = {
-  /*'rohit-senior': {
+  'rohit-senior': {
     name: 'Rohit Sharma',
     role: 'Senior Investment Strategist',
     bio: 'With over 15 years of experience in institutional asset management, Rohit specializes in dividend growth strategies and long-term wealth preservation. He has previously held executive roles at leading global fintech firms.',
     avatar: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=200&h=200',
     credentials: ['CFA Charterholder', 'MBA Finance', 'Ex-Goldman Analyst']
-  }*/
+  }
 };
 
 export const BLOG_POSTS: BlogPost[] = [
@@ -22,7 +22,7 @@ export const BLOG_POSTS: BlogPost[] = [
     date: 'May 2, 2026',
     readTime: '8 min',
     authorId: 'rohit-senior',
-    coverImage: 'https://images.unsplash.com/photo-MTxseYMqYzk?auto=format&fit=crop&q=80&w=1200',
+    coverImage: 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&q=80&w=1200',
     content: `
 # The S&P 500 Strategy: Why Indexing Wins
 
