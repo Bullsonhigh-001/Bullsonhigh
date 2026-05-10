@@ -4,7 +4,7 @@ import { TableRow } from './components/InvestmentTable';
 
 export const AUTHORS: Record<string, Author> = {
   'rohit-senior': {
-    name: 'Rohit ',
+    name: 'Rohit Sharma',
     role: 'Senior Investment Strategist',
     bio: 'With over 15 years of experience in institutional asset management, Rohit specializes in dividend growth strategies and long-term wealth preservation. He has previously held executive roles at leading global fintech firms.',
     avatar: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=200&h=200',
