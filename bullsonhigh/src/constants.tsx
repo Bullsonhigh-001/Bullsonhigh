@@ -4,7 +4,7 @@ import { TableRow } from './components/InvestmentTable';
 
 export const AUTHORS: Record<string, Author> = {
   'rohit-senior': {
-    name: 'Rohit Sharma',
+    name: 'Rohit ',
     role: 'Senior Investment Strategist',
     bio: 'With over 15 years of experience in institutional asset management, Rohit specializes in dividend growth strategies and long-term wealth preservation. He has previously held executive roles at leading global fintech firms.',
     avatar: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=200&h=200',
@@ -74,28 +74,43 @@ Why do smart people fail to beat a simple index? It comes down to three main fac
 Beating the S&P 500 is hard, but not impossible, especially in any given year. The S&P 500 finished 2024 with a more than 24% return, but several funds knocked it out of the park.
 
 ### Alger Focus Equity Fund I (ALGRX)
+
 **2024 performance:** 51.8%
+
 **Investment strategy:** ALGRX focuses on long-term appreciation by seeking investment opportunities that demonstrate positive growth potential. Trusting AI's emerging advancements and importance helped catapult returns for ALGRX in 2024.
+
 **Top holdings:** Microsoft, Nvidia, Meta, and Amazon
 
 ### Invesco S&P 500 Momentum ETF (SPMO)
+
 **2024 performance:** 45.81%
+
 **Investment strategy:** This S&P 500 benchmark fund tracks the large-cap equities in the market with the highest momentum score, rebalancing only twice per year.
+
 **Top holdings:** Nvidia, Broadcom, Palantir, and IBM
 
 ### American Century Focused Dynamic Growth ETF (FDG)
+
 **2024 performance:** 45.65%
+
 **Investment strategy:** FDG notes, "Our bottom-up investment process seeks to uncover companies with durable competitive advantages we believe offer opportunities for higher and sustained growth."
+
 **Top holdings:** Nvidia, Amazon, Tesla, and Meta
 
 ### Morgan Stanley US Growth Fund
+
 **2024 performance:** 40.10%
+
 **Investment strategy:** This fund seeks long-term growth by investing in emerging large-cap companies. They saw success in 2024 because they invested in e-commerce and technology and rode the wave of market enthusiasm.
+
 **Top holdings:** Cloudflare, MicroStrategy, DoorDash, and Tesla
 
 ### PGIM Jennison Technology Fund (PGKRX)
+
 **2024 performance:** 37.66%
+
 **Investment strategy:** PGKRX focuses on large-cap technology or technology-related companies. Technology had a good year in 2024, and PGKRX's well-managed portfolio was able to outpace the S&P 500 returns.
+
 **Top holdings:** Nvidia, Broadcom, Microsoft, and Apple
 
 ## Proven Strategies to Outperform the S&P 500
@@ -111,21 +126,8 @@ During bull markets, investors tend to lean into riskier investments when prices
 ### Filling Your Portfolios With Dividend Growers
 Investors quickly overlook a dividend, but savvy investors should consider investing in companies with a proven history of increasing dividends.
 
+
 > **Note:** Dividend-paying stocks provide income and capital appreciation and often outperform non-dividend-paying stocks in the long run.
-
-## FAQ
-
-### What Percentage of Funds Beat the S&P 500?
-According to SPIVA Scorecards, only around 10% of large-cap actively managed funds consistently beat the S&P 500 over a 10-year period.
-
-### Can Financial Advisors Beat the S&P 500?
-Some financial advisors may beat the S&P 500 in individual years, but consistently beating the S&P 500 is extremely rare, even for experienced fund managers.
-
-### What ETFs Are Beating the S&P 500?
-ETFs with concentrated exposure to one sector, like those focused on technology or AI, may beat the S&P 500 in individual years. However, their higher exposure to only one market sector greatly increases volatility and risk.
-
-### Does Berkshire Hathaway Outperform the S&P 500?
-Berkshire Hathaway, led by world-renowned investor Warren Buffett, has historically outperformed the S&P 500. For example, from 1965 to 2021, Berkshire stock's average yearly return was 20.1%, while the S&P 500's was 10.5%.
 
 ## The Bottom Line
 
